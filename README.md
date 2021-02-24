@@ -16,7 +16,7 @@ Here is the comparison for <code>tolstoy.txt</code> test file:
 <table>
   <tr>
     <td>
-      <img src=""
+      <img src="https://github.com/armanghoreshi/Huffman-ASCII-Compression/blob/main/readme_images/Screen%20Shot%202021-02-24%20at%201.05.35%20PM.png">
     </td>
     <td>
     </td>
